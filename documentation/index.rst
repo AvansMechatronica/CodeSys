@@ -6,7 +6,7 @@
 Welkom bij de Codesys Geavanceerd PLC Programmeren workshop
 ===========================================================
 
-**Codesys Geavanceerd PLC Programmeren workshop** is een workshop voor Avans van de module Industrieele Automatiserings Princiepes
+**Codesys Geavanceerd PLC Programmeren workshop** is een workshop voor Avans van de module Industrieële Automatiserings Princiepes
 
 .. note::
    This project is under active development.
