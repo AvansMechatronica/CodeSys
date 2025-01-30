@@ -18,7 +18,7 @@ Welkom bij de Codesys Geavanceerd PLC Programmeren workshop
 
    documentation/structured_text_programming.md
    documentation/object_oriented_programming.md   
-   documentation/structured_statemachine_programming.md
+   documentation/statemachine_programming.md
 
 Deze workshop is ontwikkeld door:
 

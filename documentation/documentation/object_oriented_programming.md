@@ -1,1 +1,1 @@
-# Opdracht: Object Oriented Programming
+# Thema: Object Oriented Programming
