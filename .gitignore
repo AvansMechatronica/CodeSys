@@ -3,3 +3,6 @@
 *.bootinfo_guids
 *.compileinfo
 *.`u
+*.bak
+*.bak*
+*.vbak
