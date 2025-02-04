@@ -73,7 +73,9 @@ In de MagazijnClass zul je waarschijnlijk koppelingen naar I/O doen via de GVL v
 * *Nadeel*: de klasse is niet toepasbaar in situaties waarin de 
     * GVL variabelenlijst andere benamingen heeft voor IO
     * Er meerder instanties zijn van de class voor meerdere fysieke magazijnen
-* *Oplossing*: Het toepassen van referenties naar de IO van de klasse, zie hieronder in de attributenlijst van de klasse
+* *Oplossing*: Het toepassen van referenties naar de IO van de klasse, zie hieronder in de attributenlijst van de 
+klasse
+
 ![image](../images/klasse_diagram_3.png)
 
 ### Tips voor de opdracht
